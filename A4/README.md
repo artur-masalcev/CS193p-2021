@@ -1,0 +1,5 @@
+# Assignment 4 - Set
+Full list of requirements: https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/assignment_4_0.pdf
+
+## Progress
+This solution covers all the required tasks, as well as 4 extra credit
