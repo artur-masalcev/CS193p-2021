@@ -1,4 +1,4 @@
-# Assignment 4 - EmojiArt
+# Assignment 5 - EmojiArt
 Full list of requirements: https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/assignment_5_0.pdf
 
 ## Progress
